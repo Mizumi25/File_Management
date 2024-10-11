@@ -49,7 +49,7 @@
                     <main class="w-full h-full flex justify-center items-center flex-col">
                         <section class="w-full h-[100vh] flex relative">
                             <div class="absolute bottom-[20px] text-white left-[60px] bg-gray-700 grid grid-cols-2 gap-6">
-                                <div class="w-full h-full ">Location</div>
+                                <div class="w-full h-full px-6 py-6">Location</div>
                                 <div class="bg-[#fac656] w-full h-full  px-6 py-6">Inquire</div>
                             </div>
                         </section>
